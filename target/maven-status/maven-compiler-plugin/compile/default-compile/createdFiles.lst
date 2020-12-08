@@ -1,0 +1,5 @@
+com\ibanking\utilities\ReadConfig.class
+com\ibanking\pageObjects\AddCustomerPage.class
+com\ibanking\utilities\XLUtils.class
+com\ibanking\pageObjects\LoginPage.class
+com\ibanking\utilities\Reporting.class

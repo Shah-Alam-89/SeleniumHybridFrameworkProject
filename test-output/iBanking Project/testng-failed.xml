@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [iBanking Project]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="iBanking Project Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ibanking.testCases.TC_LoginPageTest_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.ibanking.testCases.TC_LoginPageTest_001 -->
+    </classes>
+  </test> <!-- iBanking Project Test(failed) -->
+</suite> <!-- Failed suite [iBanking Project] -->

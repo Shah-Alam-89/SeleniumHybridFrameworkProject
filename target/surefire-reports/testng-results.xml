@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-08T02:04:20 BDT" name="iBanking Project Suite" finished-at="2020-12-08T02:04:46 BDT" duration-ms="25569">
+    <groups>
+    </groups>
+    <test started-at="2020-12-08T02:04:20 BDT" name="iBanking Project Test" finished-at="2020-12-08T02:04:46 BDT" duration-ms="25569">
+      <class name="com.ibanking.testCases.TC_AddCustomerTest_003">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.ibanking.testCases.TC_AddCustomerTest_003@34e9fd99]" started-at="2020-12-08T02:04:20 BDT" name="setUp" finished-at="2020-12-08T02:04:29 BDT" duration-ms="8694" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewCustomer()[pri:0, instance:com.ibanking.testCases.TC_AddCustomerTest_003@34e9fd99]" started-at="2020-12-08T02:04:29 BDT" name="addNewCustomer" finished-at="2020-12-08T02:04:45 BDT" duration-ms="15963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ibanking.testCases.TC_AddCustomerTest_003@34e9fd99]" started-at="2020-12-08T02:04:45 BDT" name="tearDown" finished-at="2020-12-08T02:04:46 BDT" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ibanking.testCases.TC_AddCustomerTest_003 -->
+    </test> <!-- iBanking Project Test -->
+  </suite> <!-- iBanking Project Suite -->
+</testng-results>

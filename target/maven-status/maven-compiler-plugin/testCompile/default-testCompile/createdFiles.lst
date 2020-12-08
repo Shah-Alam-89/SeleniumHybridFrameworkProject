@@ -1,0 +1,4 @@
+com\ibanking\testCases\TC_LoginPageTest_001.class
+com\ibanking\testCases\BaseClass.class
+com\ibanking\testCases\TC_AddCustomerTest_003.class
+com\ibanking\testCases\TC_LoginDDT_002.class
